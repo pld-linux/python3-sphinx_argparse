@@ -6,7 +6,7 @@ Summary:	Sphinx extension that automatically documents argparse commands and opt
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa automatycznie dokumentujące polecenia i opcje argparse
 Name:		python3-sphinx_argparse
 Version:	0.4.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinx-argparse/
